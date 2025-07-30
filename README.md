@@ -16,7 +16,7 @@ The goal was to:
 
 * Capture and store raw motion data from users.
 
-* Train a machine learning model to classify the play signals based on sensor data.
+* Train a machine learning model to classify the play signals based on engineered features of the sensor data.
 
 Ultimately, this fictional use case blended sports, cinema, and machine learning to demonstrate how sensor data and intelligent systems could drive immersive entertainment experiences.
 

@@ -8,7 +8,7 @@ In each interactive scene, participants stood within 30 feet of a life-sized scr
 
 * Irish Surge (N)
 
-* Touchdown Halo (O, a double-circle motion)
+* Touchdown Halo (O, Circle x 2)
 
 The app recorded gyroscope and accelerometer data from the smartphone, along with user metadata (such as name and age), to capture how each play signal was performed.
 

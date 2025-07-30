@@ -25,3 +25,7 @@ Ultimately, this fictional use case blended sports, cinema, and machine learning
 <img width="1322" height="647" alt="Correlation Matrix" src="https://github.com/user-attachments/assets/dcf5e652-a80f-48f1-9ae0-1b3c34c59a26" />
 
 <img width="1335" height="676" alt="Confusion Matrix Heatmap" src="https://github.com/user-attachments/assets/ea963ca3-6cfc-4974-b7d7-5b6848c831d6" />
+
+<img width="1070" height="547" alt="download" src="https://github.com/user-attachments/assets/9735ddb5-edd2-4641-b9cb-038b6f0d0614" />
+
+

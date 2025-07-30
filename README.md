@@ -26,6 +26,6 @@ Ultimately, this fictional use case blended sports, cinema, and machine learning
 
 <img width="1335" height="676" alt="Confusion Matrix Heatmap" src="https://github.com/user-attachments/assets/ea963ca3-6cfc-4974-b7d7-5b6848c831d6" />
 
-## Technology Used: SQL and Python Programming Language
+## Technology Used: SQL, Python Programming Language
 ## Project Codes are located in the ipynb files
 ## Project Reports are located in the html files (Download raw files)

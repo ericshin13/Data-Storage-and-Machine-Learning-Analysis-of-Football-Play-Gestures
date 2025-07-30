@@ -19,3 +19,9 @@ The goal was to:
 * Train a machine learning model to classify the play signals based on sensor data.
 
 Ultimately, this fictional use case blended sports, cinema, and machine learning to demonstrate how sensor data and intelligent systems could drive immersive entertainment experiences.
+
+<img width="1131" height="547" alt="3NF Relational Model" src="https://github.com/user-attachments/assets/0b48b69a-dbaa-4a63-a3f8-23e78ba71167" />
+
+<img width="1331" height="640" alt="Correlation Matrix" src="https://github.com/user-attachments/assets/0ebfdc31-1395-41f2-a19d-ae805c5f4ac8" />
+
+<img width="1326" height="657" alt="Confusion Matrix Heatmap" src="https://github.com/user-attachments/assets/a68baa4a-f26e-43e2-a79e-c21102e0488d" />

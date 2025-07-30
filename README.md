@@ -4,18 +4,18 @@ This project supported a fictional collaboration between entrepreneurial theater
 
 In each interactive scene, participants stood within 30 feet of a life-sized screen and performed one of three football play signals using the Signal Caller web app:
 
-Collapse Left (<)
+* Collapse Left (<)
 
-Irish Surge (N)
+* Irish Surge (N)
 
-Touchdown Halo (O, a double-circle motion)
+* Touchdown Halo (O, a double-circle motion)
 
 The app recorded gyroscope and accelerometer data from the smartphone, along with user metadata (such as name and age), to capture how each play signal was performed.
 
 The goal was to:
 
-Capture and store raw motion data from users.
+* Capture and store raw motion data from users.
 
-Train a machine learning model to classify the play signals based on sensor data.
+* Train a machine learning model to classify the play signals based on sensor data.
 
 Ultimately, this fictional use case blended sports, cinema, and machine learning to demonstrate how sensor data and intelligent systems could drive immersive entertainment experiences.

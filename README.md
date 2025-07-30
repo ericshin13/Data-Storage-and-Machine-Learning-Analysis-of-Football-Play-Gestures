@@ -22,7 +22,9 @@ Ultimately, this fictional use case blended sports, cinema, and machine learning
 
 <img width="1131" height="547" alt="3NF Relational Model" src="https://github.com/user-attachments/assets/0b48b69a-dbaa-4a63-a3f8-23e78ba71167" />
 
+<div align="center">
 <img width="406" height="342" alt="Feature Engineering" src="https://github.com/user-attachments/assets/b1536984-c50e-4784-8819-06fafcde32be" />
+</div>
 
 <img width="1322" height="647" alt="Correlation Matrix" src="https://github.com/user-attachments/assets/dcf5e652-a80f-48f1-9ae0-1b3c34c59a26" />
 

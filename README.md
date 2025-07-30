@@ -21,3 +21,7 @@ The goal was to:
 Ultimately, this fictional use case blended sports, cinema, and machine learning to demonstrate how sensor data and intelligent systems could drive immersive entertainment experiences.
 
 <img width="1131" height="547" alt="3NF Relational Model" src="https://github.com/user-attachments/assets/0b48b69a-dbaa-4a63-a3f8-23e78ba71167" />
+
+<img width="1322" height="647" alt="Correlation Matrix" src="https://github.com/user-attachments/assets/dcf5e652-a80f-48f1-9ae0-1b3c34c59a26" />
+
+<img width="1335" height="676" alt="Confusion Matrix Heatmap" src="https://github.com/user-attachments/assets/ea963ca3-6cfc-4974-b7d7-5b6848c831d6" />
